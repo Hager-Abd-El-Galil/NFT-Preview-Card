@@ -1,0 +1,6 @@
+@import "./Desktop.css";
+@import "./Mobile.css";
+
+*{
+    margin: 0%;
+}
